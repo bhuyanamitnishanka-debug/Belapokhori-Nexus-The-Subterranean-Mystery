@@ -1,0 +1,6 @@
+{
+  "name": "Belapokhori-Nexus: The Subterranean Mystery",
+  "description": "An interactive animated graphic novel for mobile unearthing ancient hydraulic secrets beneath a futuristic megacity infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

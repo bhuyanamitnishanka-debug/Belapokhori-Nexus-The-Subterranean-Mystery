@@ -1,0 +1,66 @@
+================================================================================
+DOCUMENT CODE: BN-MAN-2026-REV4
+COMPONENTS SPECIFICATION MANUAL: SYSTEM MECHANICAL CORE ASSEMBLY
+TOLERANCE PARAMETERS BINDINGS GRID // DESIGN DATA NODE: SALIPUR, ODISHA
+================================================================================
+
+1. CORE METRIC DIMENSIONS AND STRUCTURAL TOLERANCES
+   - Central Forged Power Shaft Axle: Core Length = 400.0 mm; Diameter = 50.0 mm
+     with a maximum tolerance deviation limit of ± 0.02 mm. Material formulation 
+     must utilize high-tensile forged alloy steel to manage static torsional torque load.
+   - Drive Hub Power Distribution Interface: Diameter = 160.0 mm ± 0.05 mm; 
+     Thickness = 60.0 mm. Fixed horizontally along the shaft centerline at exactly 
+     170.0 mm offset from primary bearing support journals.
+   - Radial Spoke Wheel Matrix: Complete geometric sweep radius = 360.0 mm, 
+     housing 12 precision spoke slots spaced at exact 30.0 degree angle configurations.
+   - Water Catchment Pot Nodes (Ghats): 12 distinct monolithic cast units, 
+     internal collection chamber radius = 30.0 mm. Mounted symmetrically along the 
+     outer wheel rim perimeter to prevent dynamic weight balancing imbalances.
+
+2. CASCADING MECHANICAL ASSEMBLY INTEGRATION SEQUENCING
+   
+   STEP A: CORE AXLE SETTING & HIGH-PRESSURE BEARING HOUSING
+   - Clean the 50 mm forged power shaft axle surfaces with an organic degreasing 
+     solvent to completely eliminate structural residue.
+   - Press the dual-row roller bearing assemblies onto the precision seats on both ends. 
+     Verify that the alignment clearance does not exceed 0.02 mm to prevent friction 
+     locking during extreme dynamic shifts in river velocity.
+   - Slide the 160 mm load-bearing drive hub onto the shaft axle up to the 170 mm 
+     center tracking line. Secure the interface tightly by driving high-tensile 
+     locking keys directly into the precision-cut keyways.
+
+   STEP B: PARAMETRIC RADIAL FRAMEWORK & POT POSITIONING
+   - Fit the 12 radial connecting structural spokes into the precision-milled hub slots. 
+     Use a digital protractor tool to check that each spoke fits precisely at the 
+     30.0-degree design mark.
+   - Secure the 12 monolithic water catchment pots onto the peripheral tips of the spokes 
+     using high-torque locking fasteners.
+   - Manually spin the completed wheel assembly to inspect concentric movement. 
+     The perimeter tracking deviation must not exceed ±0.5 mm across a full 360-degree rotation.
+
+   STEP C: GEARBOX COUPLING & ALTERNATOR BRIDGE INTEGRATION
+   - Align the primary input shaft of the 220 mm step-up gearbox casing with the 
+     forged central power axle. The internal gear ratio must match local fluid speeds.
+   - Bolt the gearbox high-speed output shaft directly to the internal rotor of the 
+     high-speed electromagnetic alternator system.
+   - Enclose all wiring connections inside weather-sealed junction boxes to protect the 
+     circuits from high humidity along the riverbank and sudden monsoon rain shocks.
+
+   STEP D: SUBTERRANEAN SIPHON CONNECTION & PRESSURE CELL CALIBRATION
+   - Submerge the open intake openings of the under-riverbed siphon pipelines inside the 
+     deep dredged riverbed-embedded ponds. Ensure intake lines sit below the 2.50-meter 
+     minimum navigation depth limit.
+   - Pipe the output ends of the siphon network directly into the bottom filter basins 
+     of the left and right bank geometric stepwells.
+   - Calibrate the automated hydrostatic pressure check gates to operate continuously 
+     between the safe limits of 45.0 kPa and 165.0 kPa.
+
+3. TRANSLATED OPERATIONAL SUMMARIES (बहुभाषी तकनीकी सारांश)
+
+   ଓଡ଼ିଆ ସଂକ୍ଷିପ୍ତ ନିର୍ଦ୍ଦେଶାବଳୀ (Odia System Summary):
+   - ପ୍ରଥମେ ୫୦ ମିଲିମିଟର ବିଶିଷ୍ଟ ମୁଖ୍ୟ ପାୱାର୍ ଏକ୍ସଲ୍ ଶାଫ୍ଟକୁ ସଫା କରି ବେୟାରିଂ ହାଉସିଂରେ ଫିଟ୍ କରନ୍ତୁ ଏବଂ ୧୬୦ ମିଲିମିଟର ର ଡ୍ରାଇଭ୍ ହବ୍ କୁ କେନ୍ଦ୍ର ବିନ୍ଦୁରେ ଲକ୍ କରନ୍ତୁ। ଚକ୍ରର ଚାରିପାଖରେ ଥିବା ୧୨ଟି ଜ୍ୟାମିତିକ ସ୍ଲଟ୍ ରେ ୩୦.୦ ଡିଗ୍ରୀ କୋଣରେ ୧୨ଟି ଜଳ-ଉଠା ପାତ୍ର (ଘଟ) କୁ ଶକ୍ତ ଭାବେ ଆବଦ୍ଧ କରନ୍ତୁ।
+   - ଘଟୀଯନ୍ତ୍ରର ମୁଖ୍ୟ ଅକ୍ଷକୁ ୨୨୦ ମିଲିମିଟର ର ସ୍ପେଡ୍-ଅପ୍ ଗିଅରବକ୍ସ ଏବଂ ଆଲଟରନେଟର ଡାଇନାମୋ ସହିତ ସଂଯୁକ୍ତ କରନ୍ତୁ। ନଦୀ ତଳେ ଥିବା ସାଇଫନ୍ ପାଇପ୍ କୁ ନଦୀ-ଶଯ୍ୟା-ପୋଖରୀ ଏବଂ ପାହାଚ-କୁଅର ହାଇଡ୍ରୋପୋନିକ୍ସ ବେଡ୍ ସହ ଯୋଡ଼ନ୍ତୁ।
+
+   हिंदी संक्षिप्त निर्देश (Hindi System Summary):
+   - सर्वप्रथम 50mm व्यास के मुख्य पावर एक्सल शाफ्ट को साफ करके बेयरिंग हाउसिंग में स्थापित करें। इसके बाद 160mm के लोड-बेयरिंग ड्राइव हब को अक्ष के केंद्र में लॉक करें। चक्र की परिधि पर 12 रेडियल स्पोक्स को सटीक 30.0 डिग्री के अंतराल पर व्यवस्थित करें और 12 जल-उत्थापक पात्रों (घटों) को कसें।
+   - घटीयंत्र के मुख्य अक्ष को 220mm के स्टेप-अप गियरबॉक्स हाउसिंग और हाई-स्पीड अल्टरनेटर से जोड़ें। नदी के तल के नीचे स्थित साइफन पाइपलाइनों को नदी-शैया-पुष्करिणी (Embedded Ponds) और स्टेपवेल के हाइड्रोपोनिक्स फिल्टर बेड से जोड़ें।
